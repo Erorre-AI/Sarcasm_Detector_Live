@@ -70,7 +70,7 @@ SarcastiSense combines speech-to-text transcription, emotion detection, and AI-p
 
 4. **Run SarcastiSense**
    ```bash
-   python sarcastisense.py
+   python Sarcasm_Live.py
    ```
 
 ### Usage
